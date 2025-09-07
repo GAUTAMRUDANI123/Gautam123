@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gautam Rudani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h1>raj</h1>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
